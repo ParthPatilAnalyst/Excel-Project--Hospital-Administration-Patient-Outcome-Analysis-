@@ -133,4 +133,6 @@ The analysis delivered strong and measurable outcomes:
 
 This project demonstrates how structured healthcare data analysis can uncover hidden patterns in patient behavior and treatment outcomes. By applying statistical methods and segmentation techniques, hospitals can move from reactive decision-making to proactive, data-driven care management.
 
+![image alt](https://github.com/ParthPatilAnalyst/Excel-Project--Hospital-Administration-Patient-Outcome-Analysis-/blob/f46ec1d2e34d95b770f310db32fc6046c9c72c0d/Screenshot%202026-03-04%20141243.png)
+
 
